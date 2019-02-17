@@ -1,5 +1,3 @@
-console.log('hello');
-
 const modal = (() => {
     let method = {};
     const $overlay = $('#overlay'),
